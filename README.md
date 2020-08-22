@@ -1,2 +1,2 @@
 # typeCastRepo
-Repo for yound coders
+Repo for young coders
